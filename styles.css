@@ -15,6 +15,14 @@ body{
 html{
   cursor: url('./assets/Asset.png'), auto;
 }
+.navbar-brand img{
+  width: 150px;
+}
+nav{
+  background: none;
+  position: absolute;
+  z-index: 10;
+}
 
 .card{
 
